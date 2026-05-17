@@ -1,3 +1,8 @@
+---
+layout: page
+title: 旅ノート（TabiNote）利用規約
+---
+
 # 旅ノート（TabiNote）利用規約
 
 **最終更新日**: 2026年5月17日  

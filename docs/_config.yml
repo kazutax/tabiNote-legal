@@ -1,0 +1,3 @@
+# GitHub Pages（/docs 公開）用。デフォルト Jekyll テーマのサイト名ヘッダーを使わない。
+markdown: kramdown
+plugins: []
