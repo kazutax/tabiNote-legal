@@ -5,21 +5,21 @@ title: TabiNote Terms of Use
 permalink: /terms-of-service-en.html
 ---
 
-[Japanese](https://kazutax.github.io/tabiNote-legal/terms-of-service.html)
-
 # TabiNote Terms of Use
+
+[Japanese](https://kazutax.github.io/tabiNote-legal/terms-of-service.html)
 
 **Last updated**: November 2, 2026
 
-These Terms of Use ("Terms") set the conditions for using TabiNote (the "Service"). Read these Terms before you use the Service.
+These Terms of Use ("Terms") govern your use of TabiNote (the "Service"). Please read these Terms before you use the Service.
 
-The Service is developed and operated by an individual. The operator tries to provide a stable service. Because it is run by an individual, the operator does not promise a support system on the scale of a large service.
+The Service is developed and operated by an individual. The operator tries to provide a stable service. Because it is run by an individual, the operator does not guarantee support on the scale of a large service.
 
 ---
 
 ## 1. Agreement to these Terms
 
-1.1 By using the Service, you are treated as having agreed to these Terms.
+1.1 By using the Service, you are deemed to have agreed to these Terms.
 
 1.2 If you do not agree to these Terms, you cannot use the Service.
 
@@ -27,7 +27,7 @@ The Service is developed and operated by an individual. The operator tries to pr
 
 ## 2. The Service
 
-2.1 The Service is a social networking service where you post and share records of a trip, and look at other people's trips. For each trip, you can set who can see it: Public, Friends only, Companions only, or Only me. The main features include creating and editing a trip, posting photos, adding companions to a trip, friends, likes, showing a trip on a map, narrowing trips by user search and @mentions, and in-app notifications.
+2.1 The Service is a social networking service where you post and share records of a trip, and look at other people's trips. For each trip, you can set who can see it: Public, Friends only, Companions only, or Only me. The main features include creating and editing a trip, posting photos, adding companions to a trip, friends, likes, showing a trip on a map, filtering trips by user search and @mentions, and in-app notifications.
 
 The current version accepts photos only.
 
@@ -41,7 +41,7 @@ The current version accepts photos only.
 
 3.2 Enter accurate information when you create an account.
 
-3.3 You are responsible for your account. Keep your password safe, and do not let anyone else learn it. If you use Sign in with Apple, also take care of the Apple Account you use.
+3.3 You are responsible for your account. Keep your password safe, and do not share it with anyone else. If you use Sign in with Apple, also take care of the Apple Account you use.
 
 3.4 If you think your account may have been used without permission, contact the operator immediately.
 
@@ -56,7 +56,7 @@ The following conduct is prohibited:
 - Criminal conduct, or conduct that encourages crime
 
 4.2 **Infringement of intellectual property**
-- Conduct that infringes someone else's intellectual property, including copyright, trademark, and the right of publicity
+- Conduct that infringes someone else's intellectual property, including copyright, trademarks, and rights in a person's likeness
 - Posting another person's photos, text, or other works without permission.
 
 4.3 **Invasion of privacy**
@@ -65,7 +65,7 @@ The following conduct is prohibited:
 
 4.4 **Inappropriate content**
 - Posting content that is obscene, violent, discriminatory, or offensive
-- Posting spam, chain mail, or fraudulent content
+- Posting spam, chain messages, or fraudulent content
 - Intentionally posting false information
 
 4.5 **Unauthorized access to the system**
@@ -84,15 +84,15 @@ The following conduct is prohibited:
 
 5.1 Copyright in content you post, including photos and text, stays with you.
 
-5.2 By posting content on the Service, you are treated as giving the operator permission to:
+5.2 By posting content on the Service, you are deemed to grant the operator permission to:
 - Display and deliver it on the Service
 - Use it as needed to operate the Service
 
-5.3 You promise that content you post does not infringe anyone else's rights.
+5.3 You warrant that content you post does not infringe anyone else's rights.
 
 5.4 The operator may remove content that violates these Terms.
 
-5.5 For each trip, you can set who can see it: Public, Friends only, Companions only, or Only me. Photos in a Public trip are shown to other users on the Service. A trip set to Friends only, Companions only, or Only me is shown on the Service only to the people you selected. Photos are delivered at a unique URL that is hard for others to guess. Someone who knows that URL may be able to open the photo even if it sits outside the audience you selected. You can change who can see a trip after you post it. That change does not promise to erase what another user has already viewed or saved. Before you post, check for yourself whether the content is all right to share.
+5.5 For each trip, you can set who can see it: Public, Friends only, Companions only, or Only me. Photos in a Public trip are shown to other users on the Service. A trip set to Friends only, Companions only, or Only me is shown on the Service only to the people you selected. Photos are delivered at a unique URL that is hard for others to guess. Someone who knows that URL may be able to open the photo even if it sits outside the audience you selected. You can change who can see a trip after you post it. Changing it does not remove what someone else has already viewed or saved. Before you post, check for yourself whether you are comfortable sharing it.
 
 5.6 If you add companions to a trip, those people may be able to view and edit that trip. A trip set to Only me is not shown to companions either. A trip set to Companions only is shown only to the person who posted it and to the companions. Add someone only after that person has agreed.
 
@@ -102,9 +102,9 @@ The following conduct is prohibited:
 
 5.7.2 The Service may set a limit on how much data each user can store. Whether there is a limit, how large it is, and what happens when you go over it, including limits on new uploads and information about plans, will be shown in the Service or by a change to these Terms.
 
-5.7.3 To keep the Service running, for security, or to manage cost, the operator may delete posted data or limit use of an account when sign-in or similar activity has not been seen for a long time. The operator will tell you in the Service or at your registered email address before doing so. The specific period and steps will be shown when these Terms are changed.
+5.7.3 To keep the Service running, for security, or to manage cost, the operator may delete posted data, or limit the use of an account, if there has been no sign-in or similar activity for a long time. The operator will notify you in the Service, or by email to your registered email address, before doing so. The period and the steps will be stated when these Terms are changed.
 
-5.7.4 If you delete content or your account, the operator will try to delete the related data from the servers within a reasonable time. Deletion may not finish immediately. The Service does not promise instant erasure.
+5.7.4 If you delete content or your account, the operator will try to delete the related data from the servers within a reasonable time. Deletion may not finish immediately. The Service does not guarantee immediate deletion.
 
 ---
 
@@ -118,28 +118,28 @@ The following conduct is prohibited:
 
 6.4 The operator generally does not tell the person who reported, or the person who was reported, the result of a particular report.
 
-6.5 With Block, you can hide a specific user's trips, notifications, likes, and friend requests from each other. You can unblock that person at any time from Settings.
+6.5 If you block another user, you and that user can no longer see each other's trips, notifications, likes, or friend requests. You can unblock that person at any time from Settings.
 
-6.6 A large number of unfair reports that misuse the report feature, or repeated false reports, fall under "conduct that interferes with operation of the Service" in section 4.6, and may lead to suspension of the account.
+6.6 Many reports made in bad faith, or repeated false reports, count as "conduct that interferes with operation of the Service" in section 4.6, and may lead to suspension of the account.
 
 ---
 
 ## 7. Disclaimers
 
-7.1 The Service is provided as it is. The operator makes no promise at all about its completeness, accuracy, or usefulness.
+7.1 The Service is provided as is. The operator does not guarantee that it is complete, accurate, or useful.
 
-7.2 The operator is not liable for any damage that comes from use of the Service.
+7.2 The operator is not liable for any loss or damage arising from use of the Service.
 
 7.3 The operator is not liable for damage in the following cases:
 - Interruption, suspension, or ending of the Service
 - Loss or corruption of data
 - Defects or failures of the system
 - Unauthorized access by a third party
-- Any other cause that is not the operator's responsibility
+- Any other cause not attributable to the operator
 
 7.4 The Service is not liable for trouble between users.
 
-7.5 Maps and geographic information shown in the Service, including borders, regional divisions, and place names, are simplified representations for showing records of visits. They are based on geographic data provided by third parties. These displays do not state any view or position of the operator about recognition of a state, belonging, territory, or any other geopolitical matter. The operator does not guarantee that they are accurate or current.
+7.5 Maps and geographic information shown in the Service, including borders, regional divisions, and place names, are simplified representations for showing records of visits. They are based on geographic data provided by third parties. These displays do not state any position of the operator on the recognition of a state, sovereignty, territory, or any other geopolitical matter. The operator does not guarantee that they are accurate or current.
 
 ---
 
@@ -189,7 +189,7 @@ The following conduct is prohibited:
 
 12.1 The operator may change these Terms. For a minor change, posting the revised Terms may be enough for the change to take effect.
 
-12.2 If you keep using the Service after a change, you are treated as having agreed to the changed Terms.
+12.2 If you keep using the Service after a change, you are deemed to have agreed to the changed Terms.
 
 12.3 For a change that seriously affects your rights or duties, including a storage limit, a paid plan, how long data is kept, or how a dormant account is handled, the operator will tell you in advance by a reasonable method, such as a notice in the Service or a message to your registered email address.
 
@@ -199,7 +199,7 @@ The following conduct is prohibited:
 
 13.1 These Terms are interpreted under the laws of Japan.
 
-13.2 For a dispute about the Service, the court with jurisdiction over the operator's location is the exclusive agreed court of first instance.
+13.2 For a dispute about the Service, the court with jurisdiction over the place where the operator is located has exclusive jurisdiction as the court of first instance.
 
 ---
 

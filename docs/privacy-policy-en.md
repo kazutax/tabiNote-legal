@@ -5,15 +5,15 @@ title: TabiNote Privacy Policy
 permalink: /privacy-policy-en.html
 ---
 
-[Japanese](https://kazutax.github.io/tabiNote-legal/privacy-policy.html)
-
 # TabiNote Privacy Policy
+
+[Japanese](https://kazutax.github.io/tabiNote-legal/privacy-policy.html)
 
 **Last updated**: November 2, 2026
 
 TabiNote (the "App") respects your privacy and tries to protect personal information. This Privacy Policy explains the information the App collects, uses, and stores.
 
-The App is developed and operated by an individual. The operator handles collected information with care. Because the App is run by an individual, the operator does not promise a security system on the scale of a large service.
+The App is developed and operated by an individual. The operator handles collected information with care. Because the App is run by an individual, the operator does not guarantee security on the scale of a large service.
 
 ---
 
@@ -25,10 +25,10 @@ The App collects and stores the following information.
 - **Email address**: Used to create and authenticate an account. If you use Sign in with Apple, Apple's settings let you hide your email address (Apple's private relay address). In that case, the App receives a forwarding address issued by Apple.
 - **Password**: Used to authenticate an account you registered with an email address. It is stored as a hash. The developer cannot read it in plain text. If you use only Sign in with Apple, the App does not keep a password.
 - **Username**: An ID that is unique to each user, made of lowercase letters, numbers, and underscores.
-- **Display name**: The name shown on your profile (at least 2 characters). Only the first time you use Sign in with Apple, the App may use the name Apple provides (optional) as the starting display name.
+- **Display name**: The name shown on your profile (at least 2 characters). The first time you use Sign in with Apple, the App may use the name Apple provides, if you choose to share it, as your initial display name.
 - **Profile image**: An icon image you upload.
 
-You can create an account either by registering an email address and a password, or with Sign in with Apple. With Sign in with Apple, Apple shares with the App a user-specific identifier, your name (first time only, and optional), and an email address or a hidden private relay address. You choose, at sign-in, how much information to share with Apple's side of the flow.
+You can create an account either by registering an email address and a password, or with Sign in with Apple. With Sign in with Apple, Apple shares with the App a user-specific identifier, your name (first time only, and optional), and an email address or a hidden private relay address. When you sign in, you choose what information Apple shares with the App.
 
 ### 1.2 Trip information
 - **Trip title and description**: The trip record you create.
@@ -51,7 +51,7 @@ You can create an account either by registering an email address and a password,
 ### 1.4 Optional profile details (if you enter them in Settings)
 - **Date of birth**, **gender**, **place of residence (country and city)**, and **travel style** (for example, traveling alone or a family trip): You may enter these in account settings. You can leave them blank and still use the App's main features.
 - **Purpose of use**: They may be used to improve the quality of the Service, and, in the future, to personalize what is shown or suggested.
-- **Who can see them**: By design, they are treated as information that is not shown on a public profile for other users. If a later version of the App changes who can see them, the App will say so in this Policy or with an in-app notice.
+- **Who can see them**: By design, they are not shown on a public profile that other users see. If a later version of the App changes who can see them, the App will say so in this Policy or with an in-app notice.
 
 ### 1.5 Usage and device information (logs of how you use the App)
 
@@ -60,7 +60,7 @@ To improve the quality of the Service and to understand defects, the App collect
 - **Usage logs (events)**: Starting the App (the start of a session), screens you opened, the type of major actions such as posting a trip, and the date and time they happened.
 - **Device and app information**: Platform (iOS / Android), the App's version and build number, and the OS version.
 
-The operator runs these logs so that they do not directly include your name, email address, password, or similar information. The operator uses this information for statistics and analysis, to improve the App and to understand how it is used. The operator does not use it for advertising, and does not sell it to third parties.
+The operator handles these logs so that they do not directly include your name, email address, password, or similar information. The operator uses this information for statistics and analysis, to improve the App and to understand how it is used. The operator does not use it for advertising, and does not sell it to third parties.
 
 ---
 
@@ -73,7 +73,7 @@ The App uses collected information for the following purposes.
 - Saving and showing trip records
 - Friends, and companions on a trip
 - Likes, and achievements (prefectures and countries you have visited, and similar records)
-- Showing a trip on a map, and narrowing trips by user search and @mentions
+- Showing a trip on a map, and filtering trips by user search and @mentions
 - Delivering in-app notifications, and applying your notification settings
 
 ### 2.2 Improving the Service
@@ -97,16 +97,16 @@ The App uses collected information for the following purposes.
 
 ## 3. Third-party services and processors
 
-The App uses the following third-party services. Storage is entrusted to Supabase and to Cloudflare R2, as follows.
+The App uses the following third-party services. Data is stored with Supabase and with Cloudflare R2, as follows.
 
 ### 3.1 Supabase
-- **What is entrusted**: Authentication, and storage of the database (account information, trip records, usage logs, notifications, and similar records)
+- **Used for**: Authentication, and storage of the database (account information, trip records, usage logs, notifications, and similar records)
 - **Image files**: Files for trip photos and profile images are stored in Cloudflare R2, in section 3.2
 - **Provider**: Supabase Inc.
 - **Privacy policy**: https://supabase.com/privacy
 
 ### 3.2 Cloudflare R2
-- **What is entrusted**: Storage of trip photos and profile images. The current version accepts photos only for a trip.
+- **Used for**: Storage of trip photos and profile images. The current version accepts photos only for a trip.
 - **Provider**: Cloudflare, Inc.
 - **Privacy policy**: https://www.cloudflare.com/privacypolicy/
 
@@ -122,11 +122,11 @@ The App uses the following third-party services. Storage is entrusted to Supabas
 ## 4. Storage and security
 
 ### 4.1 How long data is kept, and how much can be stored
-- **How long**: While your account is active, data is, as a rule, stored in the cloud.
+- **How long**: While your account is active, data is generally stored in the cloud.
 - **Storage limit**: When operation requires it, including keeping the Service running, security, and managing infrastructure cost, the operator may set a storage limit for each user, or delete data for an account that has not been used for a long time. Those conditions are shown in the [Terms of Use](https://kazutax.github.io/tabiNote-legal/terms-of-service-en.html) and in the App.
-- **Showing how much you use**: My Page and similar screens in the App may show an approximate amount of cloud storage in use. The figure is based on things such as the total of sizes recorded at upload. It may not match the actual amount used on cloud storage exactly.
+- **Showing how much you use**: My Page and similar screens in the App may show an approximate amount of cloud storage in use. The figure is based on the total of the sizes recorded at upload. It may not exactly match the space used in cloud storage.
 - **When you delete your account**: Related data is deleted as well.
-- **Deleting media**: Photos, profile images, and similar media are placed on a deletion queue when you delete your account or delete them yourself, and may be deleted on the server in batches at intervals. Deletion may not finish immediately. The App does not promise instant erasure.
+- **Deleting media**: Photos, profile images, and similar media are placed on a deletion queue when you delete your account or delete them yourself, and may be deleted on the server in batches at intervals. Deletion may not finish immediately. The App does not guarantee immediate deletion.
 
 ### 4.2 Security
 - Passwords are stored as hashes.
@@ -165,7 +165,7 @@ You can ask for the following by email to support@kazutak.com.
 - An objection to how usage logs are handled
 - A copy of your data
 
-A reply is aimed at within about one month.
+We aim to reply within about one month.
 
 ---
 
@@ -184,13 +184,13 @@ The audience setting controls who can see a trip and its media in the App. Photo
 
 ## 7. Use by minors
 
-The App is not aimed mainly at a particular age group. If a minor uses the App, a parent or guardian should agree first. The App does not knowingly collect personal information from minors.
+The App is not aimed mainly at a particular age group. If a minor uses the App, a parent or guardian should give permission first. The App does not intentionally collect personal information from minors.
 
 ---
 
 ## 8. Changes to this Privacy Policy
 
-This Privacy Policy may change without notice. If there is an important change, the App will notify you in the App. If you keep using the App after a change, you are treated as having agreed to the changed Privacy Policy.
+This Privacy Policy may change without notice. If there is an important change, the App will notify you in the App. If you keep using the App after a change, you are deemed to have agreed to the changed Privacy Policy.
 
 ---
 
