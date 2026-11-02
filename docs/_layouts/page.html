@@ -1,9 +1,25 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ page.lang | default: 'ja' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: "旅ノート" }}</title>
+  {% if page.name == "terms-of-service.md" or page.name == "terms-of-service-en.md" %}
+  {% assign hreflang_ja = "https://kazutax.github.io/tabiNote-legal/terms-of-service.html" %}
+  {% assign hreflang_en = "https://kazutax.github.io/tabiNote-legal/terms-of-service-en.html" %}
+  {% elsif page.name == "privacy-policy.md" or page.name == "privacy-policy-en.md" %}
+  {% assign hreflang_ja = "https://kazutax.github.io/tabiNote-legal/privacy-policy.html" %}
+  {% assign hreflang_en = "https://kazutax.github.io/tabiNote-legal/privacy-policy-en.html" %}
+  {% endif %}
+  {% if hreflang_ja %}
+  {% if page.lang == "en" %}
+  <link rel="canonical" href="{{ hreflang_en }}">
+  {% else %}
+  <link rel="canonical" href="{{ hreflang_ja }}">
+  {% endif %}
+  <link rel="alternate" hreflang="ja" href="{{ hreflang_ja }}">
+  <link rel="alternate" hreflang="en" href="{{ hreflang_en }}">
+  {% endif %}
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Segoe UI", sans-serif;
