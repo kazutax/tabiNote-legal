@@ -5,9 +5,7 @@ title: TabiNote Terms of Use
 permalink: /terms-of-service-en.html
 ---
 
-**The Japanese text controls.** If the Japanese text and this English text differ, the Japanese text controls. This English text is a translation. A lawyer or other specialist has not reviewed it.
-
-[Japanese text (controls)](https://kazutax.github.io/tabiNote-legal/terms-of-service.html)
+[Japanese](https://kazutax.github.io/tabiNote-legal/terms-of-service.html)
 
 # TabiNote Terms of Use
 
@@ -181,7 +179,7 @@ The following conduct is prohibited:
 
 ## 11. Personal information
 
-11.1 For how personal information is handled, see the [Privacy Policy](https://kazutax.github.io/tabiNote-legal/privacy-policy-en.html). If that English text and the [Japanese privacy policy](https://kazutax.github.io/tabiNote-legal/privacy-policy.html) differ, the Japanese text controls.
+11.1 For how personal information is handled, see the [Privacy Policy](https://kazutax.github.io/tabiNote-legal/privacy-policy-en.html).
 
 11.2 Optional profile details, including date of birth, gender, place of residence, and travel style, are also handled under that Privacy Policy.
 

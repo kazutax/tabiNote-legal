@@ -5,9 +5,7 @@ title: TabiNote Privacy Policy
 permalink: /privacy-policy-en.html
 ---
 
-**The Japanese text controls.** If the Japanese text and this English text differ, the Japanese text controls. This English text is a translation. A lawyer or other specialist has not reviewed it.
-
-[Japanese text (controls)](https://kazutax.github.io/tabiNote-legal/privacy-policy.html)
+[Japanese](https://kazutax.github.io/tabiNote-legal/privacy-policy.html)
 
 # TabiNote Privacy Policy
 
@@ -125,7 +123,7 @@ The App uses the following third-party services. Storage is entrusted to Supabas
 
 ### 4.1 How long data is kept, and how much can be stored
 - **How long**: While your account is active, data is, as a rule, stored in the cloud.
-- **Storage limit**: When operation requires it, including keeping the Service running, security, and managing infrastructure cost, the operator may set a storage limit for each user, or delete data for an account that has not been used for a long time. Those conditions are shown in the [Terms of Use](https://kazutax.github.io/tabiNote-legal/terms-of-service-en.html) and in the App. If the English Terms and the [Japanese Terms](https://kazutax.github.io/tabiNote-legal/terms-of-service.html) differ, the Japanese text controls.
+- **Storage limit**: When operation requires it, including keeping the Service running, security, and managing infrastructure cost, the operator may set a storage limit for each user, or delete data for an account that has not been used for a long time. Those conditions are shown in the [Terms of Use](https://kazutax.github.io/tabiNote-legal/terms-of-service-en.html) and in the App.
 - **Showing how much you use**: My Page and similar screens in the App may show an approximate amount of cloud storage in use. The figure is based on things such as the total of sizes recorded at upload. It may not match the actual amount used on cloud storage exactly.
 - **When you delete your account**: Related data is deleted as well.
 - **Deleting media**: Photos, profile images, and similar media are placed on a deletion queue when you delete your account or delete them yourself, and may be deleted on the server in batches at intervals. Deletion may not finish immediately. The App does not promise instant erasure.
